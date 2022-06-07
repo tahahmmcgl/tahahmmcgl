@@ -13,7 +13,7 @@
 - 📧 You can raech me **tahahmmcgl@gmail.com**
 - - -
 
-<h2> Connect with me <img src='https://c.tenor.com/oE7XBnCpB2gAAAAi/rylsee-tooshytorap.gif' width="50px"> </h2>
+<h2> Connect with me <img src='https://c.tenor.com/oE7XBnCpB2gAAAAi/rylsee-tooshytorap.gif' width="40" height="40"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/tahahamamcioglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahahamamcioglu" height="30" width="40" /></a>
 <a href="mailto:tahahmmcgl@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="tahahmmcgl@gmail.com" height="30" width="40" /></a>
