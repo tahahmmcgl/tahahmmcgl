@@ -1,7 +1,7 @@
 # Hi there, I'm Taha <img src="https://github.com/jmhobbs/party-gopher/blob/master/dancing-gopher.gif?raw=true" width="40" height="40" />
 
 <p align="center">
-<img src="https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif" alt="@onurerdemiroglu" height="300" width="500" />
+<img src="https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif" alt="@tahahmmcgl" height="300" width="500" />
  </p>
 
 ## Welcome to my Github Profile🙋🏽‍♀️
